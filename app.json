@@ -32,7 +32,7 @@
         "ALLOWERD_USERS": {
             "description": "允许使用bot的用户telegram id",
             "value": "allowed_users"
-        },
+        }
     },
     "stack": "container"
 }
