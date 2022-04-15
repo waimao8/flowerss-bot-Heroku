@@ -1,23 +1,25 @@
 {
     "name": "flowerss-bot",
     "description": "Deploy flowerss-bot on Heroku.",
+    "repository": "https://github.com/jbwfu/flowerss-bot-Heroku",
     "keywords": ["flowerss-bot"],
+    "website": "https://om.klee.gq",
     "env": {
         "BOT_TOKEN": {
             "description": "Telegram Bot Token",
-            "value": ""
+            "value": "bot_token"
         },
         "TG_TOKEN1": {
             "description": "用于转存原文到 Telegraph",
-            "value": ""
+            "value": "telegraph_token"
         },
         "TG_TOKEN2": {
             "description": "用于转存原文到 Telegraph",
-            "value": ""
+            "value": "telegraph_token"
         },
         "TG_TOKEN3": {
             "description": "用于转存原文到 Telegraph",
-            "value": ""
+            "value": "telegraph_token"
         },
         "UA": {
             "description": "User Agent",
@@ -29,10 +31,8 @@
         },
         "ALLOWERD_USERS": {
             "description": "允许使用bot的用户telegram id",
-            "value": ""
+            "value": "allowed_users"
         },
     },
-    "website": "https://om.klee.gq",
-    "repository": "https://github.com/jbwfu/flowerss-bot-Heroku",
     "stack": "container"
 }
