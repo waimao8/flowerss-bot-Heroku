@@ -1,9 +1,9 @@
-bot_token: XXX
+bot_token: 5282185102:AAFyMv2OX4B0sLG8Hrf6enuelGelGZ0gsP8
 #多个telegraph_token可采用数组格式：
 # telegraph_token:
 #  - token_1
 #  - token_2
-telegraph_token: xxxx
+telegraph_token: 8c9f8b329525d9d9f7ab540a0ca6c2b650f7a27785320d53fa2f7e6a81c8
 user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
 preview_text: 0
 disable_web_page_preview: false
@@ -11,7 +11,7 @@ socks5: 127.0.0.1:1080
 update_interval: 10
 error_threshold: 100
 telegram:
-  endpoint: https://xxx.com/
+  endpoint: https://163168.xyz/
 mysql:
   host: 127.0.0.1
   port: 3306
